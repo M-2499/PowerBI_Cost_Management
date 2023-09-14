@@ -1,4 +1,4 @@
-**PowerBI_cost_management**
+## PowerBI_cost_management
 
 
 ## Introduction
@@ -60,7 +60,7 @@ Forecast and Budget: This section shows the budget and forecast for each expense
 
 Overall, the dashboard shows that the company is currently below budget for the year 2020. However, there are some regions and expense categories that are above budget. The company should monitor these areas closely to make sure that they stay on track.
 
-Here are some specific insights that can be drawn from the visualization:
+## Insights Drawn
 
 Europe is the only region that is currently below budget. This may be due to a number of factors, such as a weaker economy or a decline in sales.
 
@@ -95,7 +95,7 @@ USA is the country that has spent the most money on IT. This may be due to the f
 Africa & Asia is the region that is furthest below budget. This may be due to a weaker economy or a decline in sales in these regions.
 The dashboard provides a valuable overview of the company's IT spending. By monitoring the data in the dashboard, the company can identify any areas where they are off track and take corrective action.
 
-##Additional questions for further insights:
+## Additional questions for further insights:
 
 What are the reasons for the overspending in BU Support?
 What can be done to reduce the spending in Administrative?
