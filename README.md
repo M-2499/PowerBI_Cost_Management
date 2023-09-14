@@ -8,26 +8,24 @@ Understanding and managing finances is a fundamental aspect of any thriving comp
 **Project Overview**
 This project focuses on performing a comprehensive cost analysis utilizing Power BI. The key steps involved in this process are outlined below:
 
-## Data Extraction
+**Data Extraction**
 Extracting relevant financial data from diverse sources, including accounting systems or spreadsheets, and importing it into Power BI is the initial step. It is imperative to ensure that the data is accurate, complete, and structured in a way that facilitates meaningful analysis.
 
-## Data Modeling
+**Data Modeling**
 Creating a robust data model within Power BI is essential. This involves the amalgamation of actual and budgeted data. Typically, this is achieved by establishing relationships between different tables and defining measures and calculations to enhance the analytical capabilities.
 
-## Actual vs Budget Comparison
+**Actual vs Budget Comparison**
 The heart of the analysis lies in calculating the variances between actual and budgeted values for each financial metric under consideration. This can be accomplished by subtracting the budgeted amount from the actual amount or by computing the percentage variance.
 
-## Visualization
+**Visualization**
 Visualizations, such as charts, graphs, and tables, play a pivotal role in conveying insights. Choosing the right visuals is critical in highlighting key findings and making the analysis more accessible to stakeholders.
 
-Dashboard Creation
+**Dashboard Creation**
 Designing an intuitive dashboard is the final step. The dashboard serves as a centralized hub, bringing together all relevant visualizations and key performance indicators (KPIs). It provides a comprehensive overview of the actual vs budget performance, allowing users to drill down into specific details if needed.
 
-### Dashboard Creation
 
-Designing an intuitive dashboard is the final step. The dashboard serves as a centralized hub, bringing together all relevant visualizations and key performance indicators (KPIs). It provides a comprehensive overview of the actual vs budget performance, allowing users to drill down into specific details if needed.
 
-## **Getting Started
+## Getting Started
 
 To replicate or build upon this cost analysis project, follow these steps:
 
@@ -46,7 +44,7 @@ To replicate or build upon this cost analysis project, follow these steps:
 7. **Dashboard Creation**: Design a dashboard to present the analysis.
 
 
- **Visualizations**
+ ## Visualizations
  
 **Image_1**
 
@@ -60,7 +58,7 @@ Forecast and Budget: This section shows the budget and forecast for each expense
 
 Overall, the dashboard shows that the company is currently below budget for the year 2020. However, there are some regions and expense categories that are above budget. The company should monitor these areas closely to make sure that they stay on track.
 
-## Insights Drawn
+**Insights Drawn**
 
 Europe is the only region that is currently below budget. This may be due to a number of factors, such as a weaker economy or a decline in sales.
 
@@ -85,7 +83,7 @@ Budget v Forecast %: This section shows the budget v forecast % for each IT area
 
 Overall, the dashboard shows that the company is currently over budget for IT spending. However, there are some IT areas and cost element groups that are below budget. The company should monitor these areas closely to make sure that they stay on track.
 
-## Insights Drawn
+**Insights Drawn**
 
 BU Support is the IT area that is furthest above budget. This may be due to a number of factors, such as an increase in the number of employees or a rise in the cost of services.
 
@@ -95,7 +93,7 @@ USA is the country that has spent the most money on IT. This may be due to the f
 Africa & Asia is the region that is furthest below budget. This may be due to a weaker economy or a decline in sales in these regions.
 The dashboard provides a valuable overview of the company's IT spending. By monitoring the data in the dashboard, the company can identify any areas where they are off track and take corrective action.
 
-## Additional questions for further insights:
+**Additional questions for further insights:**
 
 What are the reasons for the overspending in BU Support?
 What can be done to reduce the spending in Administrative?
@@ -115,7 +113,7 @@ Budget v Forecast %: This section shows the budget v forecast % for each country
 
 Overall, the dashboard shows that the Austria IT department is currently over budget for IT spending. However, there are some countries and cost elements that are below budget. The department should monitor these areas closely to make sure that they stay on track.
 
-## Insights Drawn
+**Insights Drawn**
 
 Austria is the country that has spent the most money on IT. This may be due to the fact that Austria is a large country with a lot of businesses and organizations.
 
