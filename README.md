@@ -46,7 +46,7 @@ To replicate or build upon this cost analysis project, follow these steps:
 
  ## Visualizations
  
-**Image_1**
+## Image_1
 
 The first visualization (Image_1) is divided into three sections:
 
@@ -69,7 +69,7 @@ CAPEX is the only expense category that is currently below budget. This may be d
 Functional is the only expense category that is currently above budget. This may be due to an increase in employee salaries or a rise in the cost of supplies.
 
 
-**Image_2**
+## Image_2
 
 The second visualization (Image_2) is divided into four sections:
 
@@ -101,7 +101,7 @@ Why is USA spending the most money on IT?
 What are the trends in IT spending over time?
 How does the company's IT spending compare to the industry average?
 
-**Image_3**
+## Image_3
 
 The third visualization (Image_3) is divided into three sections:
 
