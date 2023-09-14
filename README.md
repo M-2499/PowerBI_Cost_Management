@@ -137,5 +137,4 @@ How does the Austria IT department's IT spending compare to the industry average
 
 The PowerBI_cost_management project embodies the essence of sound financial responsibility within a global organizational context. By comparing actual financial performance across diverse countries, we gain invaluable insights into revenue, expenses, and profitability on a global scale. Leveraging the capabilities of Power BI, this project serves as a testament to the critical role of prudent financial management in driving informed decision-making across any business organization. 
 
-Feel free to explore and add any further analysis.
-Thank you. 
+Feel free to explore and conduct any further analysis.
